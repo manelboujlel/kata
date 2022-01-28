@@ -1,0 +1,10 @@
+com\kata\bankaccount\BankAccountApplication.class
+com\kata\bankaccount\models\Deposit.class
+com\kata\bankaccount\Exceptions\InsufficientBalanceException.class
+com\kata\bankaccount\controllers\AccountController.class
+com\kata\bankaccount\models\Operation.class
+com\kata\bankaccount\models\Withdrawal.class
+com\kata\bankaccount\services\AccountService.class
+com\kata\bankaccount\services\IAccountService.class
+com\kata\bankaccount\Exceptions\AccountNotFoundException.class
+com\kata\bankaccount\models\Account.class
